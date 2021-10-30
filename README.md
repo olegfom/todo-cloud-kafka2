@@ -1,4 +1,4 @@
-# SCS-100
+# TODO-CLOUD-KAFKA2 (modified from the tutorial)
 
 ## PubSub Mechanism
 
